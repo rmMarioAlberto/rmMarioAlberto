@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mario Alberto
+# Hi, I'm Mario Alberto
 
 ### Junior Backend Developer | NestJS • Node.js • IoT • Machine Learning | Project Manager
 
@@ -12,14 +12,14 @@
   </a> 
 </p>
 
-- 🔭 I'm currently working on **IMOX Cloud** — a real-time energy monitoring solution for Yex Acoustic (external client). I'm leading the project as Backend Engineer and DevOps.
-- 🌱 I'm currently learning **Advanced DevOps (Docker + CI/CD), container orchestration on VPS, IoT scalability, and real-time telemetry database optimization**
-- 👯 I'm looking to collaborate on **Backend projects with NestJS/Node.js, IoT solutions, Machine Learning integration, energy efficiency, and any open-source initiative combining software + hardware**
-- 🤝 I'm looking for help with **Advanced mobile UI/UX design (Flutter or React Native) and load/stress testing on high-frequency IoT systems**
-- 💬 Ask me about **NestJS, Clean Architecture, MQTT, IoT integration (ESP32), Power Platform, edge Machine Learning models, hackathons, and leading real-client projects**
-- 📫 How to reach me **rmmarioalberto08@gmail.com**
-- ⚡ Fun fact **Active IEEE member and part of the university events organization committee. I've led projects like Lettucecurity (85% accuracy pest detection), SmartEduSuite, and currently IMOX Cloud for a real company.**
-- 📄 Know about my experiences **[Download my CV](https://drive.google.com/file/d/1T3Bj1RVBo6pVytLFq9Fr1N6AZxXqGucX/view?usp=sharing)**
+- I'm currently working on **IMOX Cloud** — a real-time energy monitoring solution for Yex Acoustic (external client). I'm leading the project as Backend Engineer and DevOps.
+- I'm currently learning **Advanced DevOps (Docker + CI/CD), container orchestration on VPS, IoT scalability, and real-time telemetry database optimization**
+- I'm looking to collaborate on **Backend projects with NestJS/Node.js, IoT solutions, Machine Learning integration, energy efficiency, and any open-source initiative combining software + hardware**
+- I'm looking for help with **Advanced mobile UI/UX design (Flutter or React Native) and load/stress testing on high-frequency IoT systems**
+- Ask me about **NestJS, Clean Architecture, MQTT, IoT integration (ESP32), Power Platform, edge Machine Learning models, hackathons, and leading real-client projects**
+- How to reach me **rmmarioalberto08@gmail.com**
+- Fun fact **Active IEEE member and part of the university events organization committee. I've led projects like Lettucecurity (85% accuracy pest detection), SmartEduSuite, and currently IMOX Cloud for a real company.**
+- Know about my experiences **[Download my CV](https://drive.google.com/file/d/1T3Bj1RVBo6pVytLFq9Fr1N6AZxXqGucX/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
