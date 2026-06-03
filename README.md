@@ -2,9 +2,6 @@
 
 ### Junior Backend Developer | NestJS • Node.js • IoT • Machine Learning | Project Manager
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rmMarioAlberto&label=Profile views&color=0e75b6&style=flat" alt="rmMarioAlberto" /> 
-</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
