@@ -10,12 +10,12 @@
 </p>
 
 - I'm currently learning **IoT scalability patterns, container optimization on constrained hardware, and cloud deployment**
-- I'm looking to collaborate on **Backend projects with NestJS/Node.js, IoT solutions, energy efficiency, and open-source initiatives combining software + hardware**
-- I'm looking for help with **Cloud architecture (AWS/GCP), advanced mobile UI/UX design (Flutter or React Native), and load/stress testing for IoT systems**
+- I'm looking to collaborate on **Backend projects with NestJS/Node.js, IoT solutions and open-source initiatives combining software + hardware**
+- I'm looking for help with **mobile UI/UX design (React Native), and load/stress testing for IoT systems**
 - Ask me about **NestJS, MQTT, Docker, GitHub Actions CI/CD, Clean Architecture, ISO/IEC 27001, IoT integration (ESP32), and managing freelance projects for real clients**
 - How to reach me **rmmarioalberto08@gmail.com**
 - Fun fact **IEEE Student Committee Member organizing the university's first institutional hackathon. I've built projects like Lettucecurity (85% accuracy pest detection with CNN), VozRural (AI telemedicine with double-LLM pipeline), and IMOX Cloud for a real client.**
-- Know about my experiences **[Download my CV](https://drive.google.com/file/d/1T3Bj1RVBo6pVytLFq9Fr1N6AZxXqGucX/view?usp=sharing)**
+- Know about my experiences **[Download my CV](https://drive.google.com/file/d/1XUvlwIaWhHsyBBboTv0JflLNvYHx5uDy/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
