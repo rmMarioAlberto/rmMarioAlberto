@@ -18,5 +18,4 @@ jobs:
           github_user_name: rmMarioAlberto
           outputs: |
             assets/snake.svg?color_snake=%2339FF88&color_dots=%230B0F0E,%23123B2E,%231F6B4F,%232DBF83,%2339FF88
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
