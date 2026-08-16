@@ -1,0 +1,27 @@
+name: SIGNAL ROOM // Profile Statistics
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats SVG
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: assets/stats.svg
+          colors: "#050807 #113322 #39FF88 #39FF88 #E8F0EC"
+          custom-title: "SIGNAL ROOM // GITHUB TELEMETRY"
+          max-languages: 8
+          animated-language-chart: true
+          border-radius: 8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
