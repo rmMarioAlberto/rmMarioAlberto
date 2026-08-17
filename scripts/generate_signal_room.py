@@ -45,7 +45,7 @@ def main() -> int:
     lang_count: dict[str, int] = {}
     for r in repos:
         lang = r.get("language")
-        if lang:
+        if lang and lang != "Jupyter Notebook":
             lang_count[lang] = lang_count.get(lang, 0) + 1
     top_langs = ", ".join(k for k, _ in sorted(lang_count.items(), key=lambda kv: -kv[1])[:3]) or "—"
     active_30d = sum(1 for r in repos if r.get("pushed_at")
@@ -55,7 +55,7 @@ def main() -> int:
     public_repos = user.get("public_repos", 0)
     generated = now.strftime("%Y-%m-%d %H:%M UTC")
 
-    W, H = 800, 420
+    W, H = 800, 440
     CX, CY, R = 190, 205, 120
 
     def ring(r: int, opacity: str) -> str:

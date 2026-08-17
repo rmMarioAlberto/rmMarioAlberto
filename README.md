@@ -4,7 +4,7 @@
 
 ### BACKEND DEVELOPER · IoT ENGINEER · QUERÉTARO, MX
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=820&height=55&lines=BACKEND+SYSTEMS+%2F%2F+ONLINE;IoT+TELEMETRY+%2F%2F+STREAMING;MQTT+%2F%2F+LORAWAN+%2F%2F+MIOTY;EDGE+COMPUTING+%2F%2F+ACTIVE;SIGNAL+ROOM+%2F%2F+MONITORING)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=820&height=55&lines=BACKEND+SYSTEMS+%2F%2F+ONLINE;IoT+TELEMETRY+%2F%2F+STREAMING;MQTT+%2F%2F+MIOTY;EDGE+COMPUTING+%2F%2F+ACTIVE;SECURITY+%2F%2F+ISO+27001;SIGNAL+ROOM+%2F%2F+MONITORING)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
@@ -20,9 +20,9 @@
 │ LOCATION      QUERÉTARO, MX                                  │
 │ ROLE          BACKEND DEVELOPER / IoT ENGINEER               │
 │ FOCUS         DISTRIBUTED SYSTEMS / EDGE / TELEMETRY         │
-│ COVERAGE      >80%                                           │
-│ DEVICES       50+ CONCURRENT                                 │
-│ CERTIFICATION ISO/IEC 27001 · GPA 9.54                       │
+│ TESTS        565+ BACKEND TESTS · CI/CD                      │
+│ DEVICES       50+ IN PRODUCTION · <1.5s PING                 │
+│ CERTIFICATION ISO/IEC 27001 · OWASP ZAP + SonarQube          │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -67,7 +67,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-39FF88?style=flat-square&logo=mqtt&logoColor=0D3B4C)
 ![ESP32](https://img.shields.io/badge/ESP32-0D3B4C?style=flat-square&logo=espressif&logoColor=39FF88)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-0D3B4C?style=flat-square&logoColor=39FF88)
+![MIOTY](https://img.shields.io/badge/MIOTY-0D3B4C?style=flat-square&logoColor=39FF88)
 ![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Security-FFB454?style=flat-square)
 
 ---
@@ -85,33 +85,55 @@
 
 ## `> SELECTED PROJECTS`
 
-### `01 // TELEMETRY PLATFORM` — IMOX Cloud
+### `01 // EMERGENCY RESPONSE` — GeoCESAR
 
-Monitoreo de calidad eléctrica en tiempo real: ESP32-S3 → MQTT → NestJS.
-50+ dispositivos concurrentes, OTA remoto, 243+ tests backend.
+Plataforma unificada de respuesta a emergencias para la Sierra Queretana:
+pulseras MIOTY, sensores ambientales y centro de mando (SOC). Propuesta
+IEEE Response Quest 2026. **En progreso.**
 
-**Stack:** NestJS · TypeScript · MQTT · ESP32 · Docker · InfluxDB
+**Stack:** JHipster (Spring Boot 3) · React SOC + Leaflet · Flutter · PostgreSQL/PostGIS · TimescaleDB · MIOTY
 
 ### `02 // ENTERPRISE B2B` — CEQ Marketplace
 
 Marketplace privado del Clúster Energético de Querétaro. Triple Hélice:
 empresas publican ofertas y reciben matches. 565+ tests, Pact y k6.
 
-**Stack:** NestJS · React 19 · PostgreSQL · Redis · MinIO
+**Stack:** NestJS · React 19 · PostgreSQL · Redis · Elasticsearch
 
-### `03 // ENTERPRISE SaaS` — Estudio 43
+### `03 // COMPANY` — Linkore Solutions
 
-Gestión para clínica de belleza sobre 11 microservicios Spring
-con gateway, SSO y React. Scrum Master de equipo de 6.
+Mi proyecto personal de empresa desarrolladora de software, IoT y marketing.
+Pipeline de 9 fases con clientes como ISMI, Barbacoa San Juanita y Chihuahua Mark.
 
-**Stack:** Spring Boot · React · PostgreSQL · Flyway
+**Stack:** Next.js · Tailwind · Framer Motion · Meta Ads
 
-### `04 // AI MULTI-AGENT` — VozRural
+### `04 // TELEMETRY PLATFORM` — IMOX Cloud
+
+Monitoreo de calidad eléctrica en tiempo real: ESP32-S3 → MQTT → NestJS.
+50+ dispositivos en producción, OTA remoto, pings <1.5s.
+
+**Stack:** NestJS · TypeScript · MQTT · ESP32 · Docker
+
+### `05 // GYM MANAGEMENT` — Fitness Gym
+
+Sistema integral de gimnasio: membresías, acceso QR, facturación recurrente,
+inventario y dashboards en vivo con notificaciones WhatsApp.
+
+**Stack:** Angular 20 · NestJS · PostgreSQL · WebSockets
+
+### `06 // AI MULTI-AGENT` — VozRural
 
 Telemedicina por voz/WhatsApp para zonas rurales: dos LLMs en pipeline,
 latencia <1.5s, wearable GPS PoC. Hackathon Troyano 2026.
 
-**Stack:** FastAPI · Gemini · Groq · ESP32
+**Stack:** Node.js · ESP32 · WhatsApp
+
+### `07 // AI AGRICULTURE` — Lettucecurity
+
+Videovigilancia agrícola inteligente: CNN que detecta plagas y LSTM que
+predice variables ambientales, con backend en capas.
+
+**Stack:** NestJS · TensorFlow · React · MQTT
 
 > [Explora el portfolio completo — SIGNAL ROOM](https://mario-ramirez.dev) ·
 > [Repos del portfolio](https://github.com/rmMarioAlberto/mario-ramirez-dev)
@@ -122,9 +144,9 @@ latencia <1.5s, wearable GPS PoC. Hackathon Troyano 2026.
 
 | Metric                 | Signal                          |
 | ---------------------- | -------------------------------:|
-| Code Coverage          | `>80%`                          |
-| IoT Concurrent Devices | `50+`                           |
-| GPA                    | `9.54`                          |
+| Backend Tests          | `565+` · CI/CD                  |
+| IoT Concurrent Devices | `50+` · <1.5s ping              |
+| Security               | `ISO 27001` · OWASP ZAP         |
 | MIOTY                  | Fraunhofer IIS · Germany        |
 | NASA                   | Space Apps Challenge 2025       |
 | IEEE                   | Vice President · UTEQ           |
@@ -141,7 +163,7 @@ MIOTY (LPWAN)
 └── Emergencias rurales · Sierra Queretana
 
 IOT TELEMETRY
-├── MQTT · LoRaWAN · ESP32
+├── MQTT · MIOTY · ESP32
 └── Edge computing · OTA updates
 
 ENGINEERING
@@ -159,6 +181,7 @@ ENGINEERING
 <a href="https://linkedin.com/in/mario-alberto-ramirez-martinez-12215b34a"><img src="https://img.shields.io/badge/LinkedIn-0D3B4C?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn" /></a>
 <a href="mailto:rmmarioalberto08@gmail.com"><img src="https://img.shields.io/badge/Email-0D3B4C?style=for-the-badge&logo=gmail&logoColor=39FF88" alt="Email" /></a>
 <a href="https://mario-ramirez.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0D3B4C?style=for-the-badge&logo=vercel&logoColor=FFB454" alt="Portfolio" /></a>
+<a href="https://drive.google.com/file/d/1T3Bj1RVBo6pVytLFq9Fr1N6AZxXqGucX/view?usp=sharing"><img src="https://img.shields.io/badge/CV-0D3B4C?style=for-the-badge&logo=googledrive&logoColor=39FF88" alt="CV" /></a>
 
 </p>
 
