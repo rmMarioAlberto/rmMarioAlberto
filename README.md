@@ -181,7 +181,7 @@ ENGINEERING
 <a href="https://linkedin.com/in/mario-alberto-ramirez-martinez-12215b34a"><img src="https://img.shields.io/badge/LinkedIn-0D3B4C?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn" /></a>
 <a href="mailto:rmmarioalberto08@gmail.com"><img src="https://img.shields.io/badge/Email-0D3B4C?style=for-the-badge&logo=gmail&logoColor=39FF88" alt="Email" /></a>
 <a href="https://mario-ramirez.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0D3B4C?style=for-the-badge&logo=vercel&logoColor=FFB454" alt="Portfolio" /></a>
-<a href="https://drive.google.com/file/d/1T3Bj1RVBo6pVytLFq9Fr1N6AZxXqGucX/view?usp=sharing"><img src="https://img.shields.io/badge/CV-0D3B4C?style=for-the-badge&logo=googledrive&logoColor=39FF88" alt="CV" /></a>
+<a href="https://drive.google.com/file/d/1XUvlwIaWhHsyBBboTv0JflLNvYHx5uDy/view?usp=sharing"><img src="https://img.shields.io/badge/CV-0D3B4C?style=for-the-badge&logo=googledrive&logoColor=39FF88" alt="CV" /></a>
 
 </p>
 
