@@ -32,10 +32,10 @@
 
   <!-- Metrics -->
   <g>
-    <text x="370" y="120" font-family="monospace" font-size="13" fill="#8A9490">PUBLIC REPOS</text><text x="770" y="120" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">21</text>
-    <text x="370" y="150" font-family="monospace" font-size="13" fill="#8A9490">TOTAL STARS</text><text x="770" y="150" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">9</text>
+    <text x="370" y="120" font-family="monospace" font-size="13" fill="#8A9490">PUBLIC REPOS</text><text x="770" y="120" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">10</text>
+    <text x="370" y="150" font-family="monospace" font-size="13" fill="#8A9490">TOTAL STARS</text><text x="770" y="150" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">4</text>
     <text x="370" y="180" font-family="monospace" font-size="13" fill="#8A9490">FOLLOWERS</text><text x="770" y="180" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">4</text>
-    <text x="370" y="210" font-family="monospace" font-size="13" fill="#8A9490">TOP LANGUAGES</text><text x="770" y="210" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">TypeScript, JavaScript, Python</text>
+    <text x="370" y="210" font-family="monospace" font-size="13" fill="#8A9490">TOP LANGUAGES</text><text x="770" y="210" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">TypeScript, Python, JavaScript</text>
     <text x="370" y="240" font-family="monospace" font-size="13" fill="#8A9490">ACTIVE IN 30D</text><text x="770" y="240" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">4</text>
     <text x="370" y="270" font-family="monospace" font-size="13" fill="#8A9490">ACCOUNT SINCE</text><text x="770" y="270" text-anchor="end" font-family="monospace" font-size="13" font-weight="bold" fill="#39FF88">2024</text>
   </g>
@@ -48,6 +48,6 @@
   <text x="290" y="368" font-size="13" fill="#8A9490">[ OK ] OBSERVABILITY</text>
   <text x="546" y="368" font-size="13" fill="#8A9490">[ OK ] ISO 27001</text>
   <line x1="34" y1="386" x2="766" y2="386" stroke="#39FF88" stroke-opacity="0.25"/>
-  <text x="34" y="406" font-size="11" fill="#8A9490">GENERATED 2026-08-17 05:18 UTC</text>
+  <text x="34" y="406" font-size="11" fill="#8A9490">GENERATED 2026-08-18 05:05 UTC</text>
   <text x="766" y="406" text-anchor="end" font-size="11" fill="#39FF88">SIGNAL ROOM // END OF TRANSMISSION</text>
 </svg>
