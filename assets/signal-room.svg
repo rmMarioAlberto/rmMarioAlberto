@@ -48,6 +48,6 @@
   <text x="290" y="368" font-size="13" fill="#8A9490">[ OK ] OBSERVABILITY</text>
   <text x="546" y="368" font-size="13" fill="#8A9490">[ OK ] ISO 27001</text>
   <line x1="34" y1="386" x2="766" y2="386" stroke="#39FF88" stroke-opacity="0.25"/>
-  <text x="34" y="406" font-size="11" fill="#8A9490">GENERATED 2026-08-28 16:53 UTC</text>
+  <text x="34" y="406" font-size="11" fill="#8A9490">GENERATED 2026-08-29 11:19 UTC</text>
   <text x="766" y="406" text-anchor="end" font-size="11" fill="#39FF88">SIGNAL ROOM // END OF TRANSMISSION</text>
 </svg>
