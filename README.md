@@ -1,198 +1,71 @@
 <div align="center">
 
-# SIGNAL ROOM
+# Mario Alberto Ramírez Martínez
 
-### BACKEND DEVELOPER · IoT ENGINEER · QUERÉTARO, MX
+### Backend & IoT Developer · Querétaro, México
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=820&height=55&lines=BACKEND+SYSTEMS+%2F%2F+ONLINE;IoT+TELEMETRY+%2F%2F+STREAMING;MQTT+%2F%2F+MIOTY;EDGE+COMPUTING+%2F%2F+ACTIVE;SECURITY+%2F%2F+ISO+27001;SIGNAL+ROOM+%2F%2F+MONITORING)](https://github.com/DenverCoder1/readme-typing-svg)
+**Disponible para estadía profesional · Enero–abril de 2027**
+
+[Portafolio](https://mario-ramirez.dev) ·
+[LinkedIn](https://linkedin.com/in/mario-alberto-ramirez-martinez-12215b34a) ·
+[Correo](mailto:rmmarioalberto08@gmail.com)
 
 </div>
 
 ---
 
-## `> SYSTEM STATUS`
+## Perfil
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ SIGNAL ROOM // TELEMETRY CONTROL CENTER                      │
-├──────────────────────────────────────────────────────────────┤
-│ STATUS        ONLINE                                         │
-│ LOCATION      QUERÉTARO, MX                                  │
-│ ROLE          BACKEND DEVELOPER / IoT ENGINEER               │
-│ FOCUS         DISTRIBUTED SYSTEMS / EDGE / TELEMETRY         │
-│ TESTS        565+ BACKEND TESTS · CI/CD                      │
-│ DEVICES       50+ IN PRODUCTION · <1.5s PING                 │
-│ CERTIFICATION ISO/IEC 27001 · OWASP ZAP + SonarQube          │
-└──────────────────────────────────────────────────────────────┘
-```
+Desarrollador de software enfocado en backend y sistemas conectados. He trabajado en servicios web, telemetría MQTT y despliegues en servidores físicos y VPS. Actualmente curso Ingeniería en Desarrollo y Gestión de Software en la UTEQ; graduación prevista para abril de 2027.
 
-> Building backend systems and connected-device infrastructure where
-> telemetry, reliability and security meet. Beca académica en
-> **Fraunhofer IIS (Alemania)** con tecnología **MIOTY**.
+## Trabajo seleccionado
 
----
+- **CEQ Marketplace · B2B:** lideré un equipo de cuatro personas y desarrollé módulos full stack para una plataforma desplegada en VPS. [Landing pública](https://ceqmarketplace.mx/); las funciones requieren autenticación.
+- **IMOX Cloud · IoT:** desplegué NestJS, MQTT y Redis con Docker en un servidor físico de recursos limitados; atendió telemetría de más de 50 dispositivos concurrentes con intervalos de 1.5 s. Corregí falsas desconexiones mediante validación de timestamps e implementé OTA y caché Redis.
+- **Fitness Gym · serverless:** sistema de membresías, acceso QR, inventario y reportes para más de 150 miembros. [Sitio](https://www.fitnessgymqro.com/).
+- **GeoCESAR · respuesta rural:** plataforma en desarrollo para emergencias rurales que conecta solicitudes de ayuda con equipos de respuesta, comparte ubicación y facilita el seguimiento de incidentes.
 
-## `> LIVE TELEMETRY`
+## Experiencia
 
-<p align="center">
+- **Clúster Energético de Querétaro · contrato vía Linkore Solutions** — Líder técnico y desarrollador full stack · may. 2026–actualidad.
+- **Atlas Copco Mexicana** — Practicante de bases de datos y Power Platform · mar. 2025–mar. 2026. Digitalicé reportes de mantenimiento y conecté Power Platform con sistemas heredados mediante Node.js.
 
-<img src="./assets/signal-room.svg" width="100%" alt="SIGNAL ROOM radar con métricas de GitHub" />
+## Liderazgo y actividades
 
-</p>
+- **IEEE UTEQ** — Miembro desde 2026; impulso la organización del primer hackathon institucional de la universidad (en preparación).
 
-<p align="center">
+## Tecnologías
 
-<a href="https://github.com/cicirello/user-statistician"><img src="./assets/stats.svg" width="100%" alt="Estadísticas de GitHub generadas por user-statistician" /></a>
+**Backend:** TypeScript, Node.js, NestJS, Java, Spring Boot
 
-</p>
+**IoT y hardware:** MIOTY, MQTT, ESP32, OTA, KiCad
 
-<p align="center">
+**Datos:** PostgreSQL, PostGIS, Redis
 
-<img src="./assets/snake.svg" width="100%" alt="Snake de contribuciones" />
+**Frontend:** React, React Native, Angular
 
-</p>
+**Entrega:** Docker, GitHub Actions, Git, Jest
 
----
+## Formación y credencial
 
-## `> CORE STACK`
+- **UTEQ** — Ingeniería en Desarrollo y Gestión de Software · graduación prevista abr. 2027 · promedio 9.54/10.
+- **UTEQ** — TSU en TI, Desarrollo de Software Multiplataforma · 2021–2023.
+- **Fraunhofer IIS, Alemania** — Intercambio académico en MIOTY y diseño de endpoints de bajo consumo · sep.–dic. 2026.
+- **Certificación Profesional ISO/IEC 27001 – Seguridad de la Información** · abr. 2026.
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-39FF88?style=flat-square&logo=mqtt&logoColor=0D3B4C)
-![ESP32](https://img.shields.io/badge/ESP32-0D3B4C?style=flat-square&logo=espressif&logoColor=39FF88)
-![MIOTY](https://img.shields.io/badge/MIOTY-0D3B4C?style=flat-square&logoColor=39FF88)
-![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-Security-FFB454?style=flat-square)
+**Idiomas:** español nativo · inglés B2 (lectura técnica) · alemán A1.
 
 ---
 
-## `> OPERATIONS`
+## English
 
-```text
-[ OK ] BACKEND SERVICES        [ OK ] MQTT TELEMETRY
-[ OK ] EDGE DEVICES            [ OK ] CI/CD PIPELINES
-[ OK ] CONTAINERIZED DEPLOYS   [ OK ] OBSERVABILITY
-[ OK ] SECURITY PRACTICES      [ OK ] CLEAN ARCHITECTURE
-```
+Backend and IoT-focused software developer based in Querétaro, Mexico. I have built web services, MQTT telemetry systems, and deployments on physical servers and VPS infrastructure. I am completing a Software Development and Management Engineering degree at UTEQ, expected April 2027, and am available for a professional internship from January to April 2027.
 
----
+**Selected work:** a VPS-deployed B2B marketplace for the Querétaro Energy Cluster (technical lead for a four-person team); an MQTT telemetry backend for 50+ concurrent devices at 1.5-second intervals on a resource-constrained physical server, including timestamp validation, OTA, and Redis caching; and a serverless gym-management system for 150+ members. GeoCESAR is an in-progress rural emergency-response platform designed to connect requests for help with response teams, share people’s locations, and support follow-up on each incident.
 
-## `> SELECTED PROJECTS`
+**Education:** UTEQ Engineering (expected Apr 2027, GPA 9.54/10) and TSU (2021–2023); academic exchange at Fraunhofer IIS (Sep–Dec 2026), focused on MIOTY and low-power endpoint design with KiCad.
 
-### `01 // EMERGENCY RESPONSE` — GeoCESAR
+**Leadership:** IEEE Student Branch member at UTEQ since 2026; organizing the university’s first institutional hackathon, which is still in preparation.
 
-Plataforma unificada de respuesta a emergencias para la Sierra Queretana:
-pulseras MIOTY, sensores ambientales y centro de mando (SOC). Propuesta
-IEEE Response Quest 2026. **En progreso.**
-
-**Stack:** JHipster (Spring Boot 3) · React SOC + Leaflet · Flutter · PostgreSQL/PostGIS · TimescaleDB · MIOTY
-
-### `02 // ENTERPRISE B2B` — CEQ Marketplace
-
-Marketplace privado del Clúster Energético de Querétaro. Triple Hélice:
-empresas publican ofertas y reciben matches. 565+ tests, Pact y k6.
-
-**Stack:** NestJS · React 19 · PostgreSQL · Redis · Elasticsearch
-
-### `03 // COMPANY` — Linkore Solutions
-
-Mi proyecto personal de empresa desarrolladora de software, IoT y marketing.
-Pipeline de 9 fases con clientes como ISMI, Barbacoa San Juanita y Chihuahua Mark.
-
-**Stack:** Next.js · Tailwind · Framer Motion · Meta Ads
-
-### `04 // TELEMETRY PLATFORM` — IMOX Cloud
-
-Monitoreo de calidad eléctrica en tiempo real: ESP32-S3 → MQTT → NestJS.
-50+ dispositivos en producción, OTA remoto, pings <1.5s.
-
-**Stack:** NestJS · TypeScript · MQTT · ESP32 · Docker
-
-### `05 // GYM MANAGEMENT` — Fitness Gym
-
-Sistema integral de gimnasio: membresías, acceso QR, facturación recurrente,
-inventario y dashboards en vivo con notificaciones WhatsApp.
-
-**Stack:** Angular 20 · NestJS · PostgreSQL · WebSockets
-
-### `06 // AI MULTI-AGENT` — VozRural
-
-Telemedicina por voz/WhatsApp para zonas rurales: dos LLMs en pipeline,
-latencia <1.5s, wearable GPS PoC. Hackathon Troyano 2026.
-
-**Stack:** Node.js · ESP32 · WhatsApp
-
-### `07 // AI AGRICULTURE` — Lettucecurity
-
-Videovigilancia agrícola inteligente: CNN que detecta plagas y LSTM que
-predice variables ambientales, con backend en capas.
-
-**Stack:** NestJS · TensorFlow · React · MQTT
-
-> [Explora el portfolio completo — SIGNAL ROOM](https://mario-ramirez.dev) ·
-> [Repos del portfolio](https://github.com/rmMarioAlberto/mario-ramirez-dev)
-
----
-
-## `> ENGINEERING METRICS`
-
-| Metric                 | Signal                          |
-| ---------------------- | -------------------------------:|
-| Backend Tests          | `565+` · CI/CD                  |
-| IoT Concurrent Devices | `50+` · <1.5s ping              |
-| Security               | `ISO 27001` · OWASP ZAP         |
-| MIOTY                  | Fraunhofer IIS · Germany        |
-| NASA                   | Space Apps Challenge 2025       |
-| IEEE                   | Vice President · UTEQ           |
-| Fin 4 All              | Hackathon 2025 · Backend        |
-
----
-
-## `> RESEARCH / SIGNALS`
-
-```text
-MIOTY (LPWAN)
-├── Fraunhofer IIS · Germany
-├── Beca académica By Excellence
-└── Emergencias rurales · Sierra Queretana
-
-IOT TELEMETRY
-├── MQTT · MIOTY · ESP32
-└── Edge computing · OTA updates
-
-ENGINEERING
-├── Clean Architecture · CI/CD · Testing
-└── ISO/IEC 27001 · OWASP · SonarQube
-```
-
----
-
-## `> CONNECT`
-
-<p align="center">
-
-<a href="https://github.com/rmMarioAlberto"><img src="https://img.shields.io/badge/GitHub-0D3B4C?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/mario-alberto-ramirez-martinez-12215b34a"><img src="https://img.shields.io/badge/LinkedIn-0D3B4C?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn" /></a>
-<a href="mailto:rmmarioalberto08@gmail.com"><img src="https://img.shields.io/badge/Email-0D3B4C?style=for-the-badge&logo=gmail&logoColor=39FF88" alt="Email" /></a>
-<a href="https://mario-ramirez.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0D3B4C?style=for-the-badge&logo=vercel&logoColor=FFB454" alt="Portfolio" /></a>
-<a href="https://drive.google.com/file/d/1XUvlwIaWhHsyBBboTv0JflLNvYHx5uDy/view?usp=sharing"><img src="https://img.shields.io/badge/CV-0D3B4C?style=for-the-badge&logo=googledrive&logoColor=39FF88" alt="CV" /></a>
-
-</p>
-
----
-
-<div align="center">
-
-```text
-SIGNAL ROOM // END OF TRANSMISSION
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=rmMarioAlberto&color=39FF88&style=flat-square&label=SIGNAL+ROOM+VISITS)
-
-</div>
+**Languages:** Spanish (native), English (B2 technical reading), German (A1).
+**Portfolio:** [mario-ramirez.dev](https://mario-ramirez.dev)
